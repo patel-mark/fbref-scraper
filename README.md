@@ -1,8 +1,3 @@
-Here’s a polished, GitDocify-style `README.md` for your **fbref-scraper** project, complete with icons, badges, and clear structure:
-
----
-
-````markdown
 # ⚽ FBRef Scraper 🐍
 
 [![License](https://img.shields.io/github/license/patel-mark/fbref-scraper)](LICENSE)  
@@ -124,23 +119,4 @@ Inspired by community FBref scrapers and tutorials:
 
 ---
 
-Made with ❤️ by [@patel-mark](https://github.com/patel-mark)
-
-```
-
----
-
-Let me know if you want:
-- Badge icons (build, CI, codecov)
-- Usage examples (snippet with real CSV output)
-- A GitHub Action to automate scraping
-- Deployment guidelines
-
-Happy to iterate!
-::contentReference[oaicite:32]{index=32}
-```
-
-[1]: https://github.com/adamcorren/fbref_football_player_data_scraper?utm_source=chatgpt.com "FBREF Football Player Data Scraper - GitHub"
-[2]: https://steveaq.github.io/FBREF-Data-Scraping-Walk-Through-pt4/?utm_source=chatgpt.com "FBREF Data Scraping - 2024 Update | PITCH IQ"
-[3]: https://fbrapi.com/?utm_source=chatgpt.com "FBR API"
-[4]: https://stackoverflow.com/questions/77548912/how-to-extract-hidden-table-from-fbref-website-by-id?utm_source=chatgpt.com "How to extract hidden table from fbref website by id? - Stack Overflow"
+Made by [@patel-mark](https://github.com/patel-mark)
